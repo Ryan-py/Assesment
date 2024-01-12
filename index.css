@@ -39,6 +39,12 @@ body {
         display: flex;
         flex-direction: row;
         gap: 20px;
+
+        .b6{
+            border-style: groove;
+            border-radius: 10px;
+            height: 20px;
+        }
     }
 }
 
